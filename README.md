@@ -53,6 +53,9 @@ The severity of injuries tends to increase as the level of aircraft damage incre
 
 When selecting an aircraft for purchase, it is recommended to choose models that have been least involved in accidents based on the historical data analysis. Additionally, ensuring the aircraft is in good condition and has a higher number of engines may contribute to better safety outcomes. Maintaining newer models and keeping the aircraft in good condition can help reduce the severity of injuries in the event of an accident. Finally, newer models are preferable as thet often incorporate the latest technologies and design improvements. They may also come withbetter training programs for pilotsas well as updated safety procedures.
 
+## Presentation Slides
+[Presentation](https://www.canva.com/design/DAGHRJw1McQ/cH7cBulI8SR--Z3mNFd_Kg/edit?utm_content=DAGHRJw1McQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 
